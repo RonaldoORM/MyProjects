@@ -1,2 +1,2 @@
 # MyProjects
-Descritivo de cursos, projetos, certificados adquiridos.
+Descritivo de cursos, projetos e certificados adquiridos.
